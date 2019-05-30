@@ -1,0 +1,9 @@
+DROP TABLE Discounts;
+DROP TABLE Policies;
+DROP TABLE Managers;
+DROP TABLE Owners;
+DROP TABLE Carts;
+DROP TABLE StoreProducts;
+DROP TABLE Stores;
+DROP TABLE Clients;
+DROP TABLE Products;
